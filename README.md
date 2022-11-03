@@ -1,11 +1,36 @@
 # BUSINESS NOTES
 "BUSINESS EASE PEOPLE"
 
-## Example
+## 1) START
+
+objective: Wealthiest
+
+### Example
 Electric Fan 
 
-## Reminder
+### Reminder
 NOT QUICK MONEY
+
+## 2) Path to Wealthiest List
+
+where: majority of TOP 10 in COMPUTER SERVICES 
+
+### Recommended ACTION
+
+SELL COMPUTERS via SERVICES<br/>
+where: COMPUTER : software and hardware<br/>
+
+### Examples
+
+Example (Software): Operating System, <br/>
+--> e.g. Windows, Linux, macOS<br/>
+<br/>
+Example (Hardware): Computer Storage, Network<br/>
+<br/>
+Example (Applications)<br/>
+1) STEAM POWERED
+
+2) DROPBOX
 
 ## Open Source Software License
 Copyright 2022 SYSON, MICHAEL B.
