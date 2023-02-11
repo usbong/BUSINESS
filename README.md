@@ -1,5 +1,6 @@
 # BUSINESS NOTES
-"BUSINESS EASE PEOPLE"
+
+- 松下幸之助 (Matsushita, Kounosuke): "BUSINESS EASE PEOPLE"
 
 ## 1) START
 
@@ -36,16 +37,15 @@ Example (Applications)<br/>
 
 1) Usbong FLASH
 
-<img src="https://github.com/usbong/FLASH/blob/main/screenshots/usbongFlashAndroidMobileControllerLandscapeNoteNoRightLeverMiddleButtonDueToKeyboard20221023T1100.png" width="40%">
+[<img src="https://github.com/usbong/game-off-2022/blob/main/screenshots/actual/usbongGameoff2022MobileV20221130T0611NoteMSPAINT.png" width="40%">](https://github.com/usbong/game-off-2022)
 
 
 2) Usbong Knowledge Management System
 
-<img src="https://github.com/usbong/BUSINESS/blob/main/res/usbongNoteSellStorageEarnFromComputerSales%2CStorageOnlyCheaperRemembersDropboxTool20221103T0913.png" width="25%">
-
+[<img src="https://github.com/usbong/BUSINESS/blob/main/res/usbongNoteSellStorageEarnFromComputerSales%2CStorageOnlyCheaperRemembersDropboxTool20221103T0913.png" width="25%">](https://github.com/usbong/kms)
 
 ## Open Source Software License
-Copyright 2022 SYSON, MICHAEL B.
+Copyright 2022~2023 SYSON, MICHAEL B.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
